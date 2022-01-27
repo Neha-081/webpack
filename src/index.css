@@ -1,0 +1,10 @@
+.mainhead{
+color: blue;
+background-color: paleturquoise;
+text-align: center;
+}
+.icon{
+    height: 200px;
+    width: 400px;
+    margin: auto;
+}
